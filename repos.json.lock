@@ -51,8 +51,8 @@
             "url": "https://github.com/bendlas/nur-packages"
         },
         "bhipple": {
-            "rev": "42b11608ed721d3eadb36385dc72cc138d6ddc9d",
-            "sha256": "0g3xffjdg5cnmqc4nsij6ij8nxvn7by2vfdlksvrmp6403awj52j",
+            "rev": "fd640bbf129c6a7f1c3b6884a41cdf93972c6df0",
+            "sha256": "03njblkzyf7f4f1lskpi1px44bvhijfzx705x883xphcbycrvj62",
             "url": "https://github.com/bhipple/nur-packages"
         },
         "c0deaddict": {
